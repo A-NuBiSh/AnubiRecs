@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(240, 75, 10, 0.911);
+}
+
+h1,
+h2,
+h3{
+    color: rgb(255, 207, 104);
+    font-weight: 850;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+.mainbodytext{
+    font-family:'Segoe UI', Verdana, 'Lucida Sans',sans-serif;
+    word-spacing: 0.5px;
+    font-size: 20px;
+}
+
+.lightbackground{
+    background-color: rgb(240, 248, 255,0.3);
+}
+
+
+
+
+
+
